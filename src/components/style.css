@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+li a {
+    font-size: 1.1rem;
+}
+    .text{
+       
+        margin: 0px;
+        padding-bottom: 35px;
+        
+    }
+
+.main-container{
+   
+    width: 80%;
+    margin: auto;
+    
+}
+
+.btns {
+    margin-bottom: 30px;
+    margin-top: -15px;
+}
+
+.todoslist{
+    margin: 20px 0;
+    background-color: rgb(199, 202, 174);
+}
+ .todo{
+    padding-top: 40px;
+    background-color: rgb(231, 209, 209);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 20px 0;
+ }
+
+ .footers{
+    width: 80%;
+    margin: auto;
+ }
+
+ .addtodo{
+    width: 80%;
+    margin: 15px auto 15px auto;
+}
+
+.addtodobac{
+    width: 80%;
+    margin: auto;
+    background: rgb(189, 206, 197);
+    border: 0.1px solid rgb(203, 233, 225);
+    margin-bottom: 20px;
+ }
+
+.about{
+    width: 80%;
+    margin: auto;
+}
+
+.text{
+    /* text-align: justify; */
+    
+}
